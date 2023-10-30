@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tsaihemanth150/MyKanban.git/static/css/main.741fc345.css",
-    "main.js": "/Tsaihemanth150/MyKanban.git/static/js/main.b3cd4063.js",
-    "static/js/787.d8137015.chunk.js": "/Tsaihemanth150/MyKanban.git/static/js/787.d8137015.chunk.js",
-    "index.html": "/Tsaihemanth150/MyKanban.git/index.html",
-    "main.741fc345.css.map": "/Tsaihemanth150/MyKanban.git/static/css/main.741fc345.css.map",
-    "main.b3cd4063.js.map": "/Tsaihemanth150/MyKanban.git/static/js/main.b3cd4063.js.map",
-    "787.d8137015.chunk.js.map": "/Tsaihemanth150/MyKanban.git/static/js/787.d8137015.chunk.js.map"
+    "main.css": "/MyKanban/static/css/main.741fc345.css",
+    "main.js": "/MyKanban/static/js/main.dfe0400f.js",
+    "static/js/787.d8137015.chunk.js": "/MyKanban/static/js/787.d8137015.chunk.js",
+    "index.html": "/MyKanban/index.html",
+    "main.741fc345.css.map": "/MyKanban/static/css/main.741fc345.css.map",
+    "main.dfe0400f.js.map": "/MyKanban/static/js/main.dfe0400f.js.map",
+    "787.d8137015.chunk.js.map": "/MyKanban/static/js/787.d8137015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.741fc345.css",
-    "static/js/main.b3cd4063.js"
+    "static/js/main.dfe0400f.js"
   ]
 }
